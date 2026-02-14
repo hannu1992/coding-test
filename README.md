@@ -23,28 +23,6 @@ It includes:
 - HTML
 - Bootstrap 5
 - Vanilla JavaScript (Fetch API)
-
----
-
-## Project Structure
-
-project-root/
-├── backend/
-│ ├── routes/
-│ ├── services/
-│ ├── models/
-│ ├── utils/
-│ ├── middleware/
-│ ├── migrations/
-│ ├── db/
-│ └── index.js
-│
-├── frontend/
-│ ├── index.html
-│ └── script.js
-│
-└── README.md
-
 ---
 
 ## Backend Setup
@@ -131,3 +109,10 @@ http://localhost:3000
 - Frontend uses a reusable API helper for consistent responses
 
 ---
+
+## Author
+
+**Hanuman Nama**
+
+- GitHub: https://github.com/hannu1992
+- Email: hanumannamdev1992@gmail.com
